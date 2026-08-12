@@ -8,4 +8,4 @@
 работающего состояния.
 
 Контрольно-измерительные материалы — в README модулей
-[M1](../../M1/README.md) — [M7](../../M7/README.md).
+[M1](../../M1-project-initiation/README.md) — [M7](../../M7-project-review/README.md).
