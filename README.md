@@ -73,14 +73,18 @@
 
 | Модуль | Тема | Недели | Критериев | Баллов |
 |---|---|---|---:|---:|
-| [M1](M1-project-initiation/README.md) | Инициация проекта | 1–2 | 13 | 29 |
-| [M2](M2-system-design/README.md) | Проектирование системы | 3–4 | 15 | 29 |
-| [M3](M3-mvp-prototype/README.md) | Прототипирование MVP | 5–6 | 14 | 34 |
-| [M4](M4-production-ready/README.md) | Production-ready инфраструктура | 7–10 | 19 | 45 |
-| [M5](M5-testing-and-metrics/README.md) | Тестирование и метрики | 11–12 | 15 | 34 |
-| [M6](M6-demo-day/README.md) | Demo Day | 13–14 | 14 | 29 |
-| [M7](M7-project-review/README.md) | Рецензирование проектов | 15–16 | 14 | 32 |
-| | | **16** | **104** | **232** |
+| [M1](M1-project-initiation/README.md) | Инициация проекта | 1–2 | 13 | 10 |
+| [M2](M2-system-design/README.md) | Проектирование системы | 3–4 | 15 | 10 |
+| [M3](M3-mvp-prototype/README.md) | Прототипирование MVP | 5–6 | 14 | 10 |
+| [M4](M4-production-ready/README.md) | Production-ready инфраструктура | 7–10 | 19 | 20 |
+| [M5](M5-testing-and-metrics/README.md) | Тестирование и метрики | 11–12 | 15 | 10 |
+| [M6](M6-demo-day/README.md) | Demo Day | 13–14 | 14 | 10 |
+| [M7](M7-project-review/README.md) | Рецензирование проектов | 15–16 | 14 | 10 |
+| | | **16** | **104** | **80** |
+
+Вес критерия внутри модуля (от 1 до 3) определяет долю закрытого, а не
+баллы напрямую: балл модуля считается как доля закрытых весов, умноженная
+на баллы модуля. Подробнее — [модель измерения](docs/assessment-model.md).
 
 Итоговая аттестация — [защита проекта](Project/README.md).
 
